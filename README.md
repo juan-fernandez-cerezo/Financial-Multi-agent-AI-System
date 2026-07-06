@@ -4,7 +4,7 @@ A multi-agent AI system that acts as a small investment research desk: give it a
 
 Built with **[CrewAI](https://crewai.com)**, **Google Gemini**, and **Yahoo Finance**.
 
-> Educational project only. Nothing this system produces is financial advice. See [Disclaimer](#disclaimer).
+> Educational project only. See [Disclaimer](#disclaimer).
 
 ---
 
@@ -149,4 +149,4 @@ financial-research-agents/
 
 ## Disclaimer
 
-This system is for **educational and informational purposes only**. It does not constitute financial advice. Always conduct your own research before making investment decisions.
+This system does not constitute financial advice. Always conduct your own research before making investment decisions.
