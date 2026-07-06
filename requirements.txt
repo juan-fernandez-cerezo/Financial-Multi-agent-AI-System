@@ -1,0 +1,16 @@
+# Core framework — crewai 1.x includes LiteLLM (supports Gemini natively)
+crewai[tools]>=1.9.0
+
+# Financial data
+yfinance>=0.2.51
+pandas>=2.2.0
+numpy>=2.0.0
+
+# Search & scraping
+duckduckgo-search>=6.3.0
+tavily-python>=0.5.0        # optional: set TAVILY_API_KEY in .env
+
+# Utilities
+python-dotenv>=1.0.0
+rich>=13.0.0
+pydantic>=2.0.0

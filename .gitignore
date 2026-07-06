@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+outputs/*.md      # generated reports — don't commit
+!outputs/.gitkeep
+.DS_Store
+*.egg-info/
+dist/
